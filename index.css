@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+
+body {
+	font-family: 'Playfair Display', serif;
+}
+
+#navbar {
+	border-bottom: 1px solid black;
+}
+
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.gmap_canvas {
+	width: 100%;
+	height: 400;
+}
